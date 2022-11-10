@@ -1,2 +1,4 @@
 # Notebook Checkpoints
 .ipynb_checkpoints/
+# DS_Store Mac Os files
+.DS_Store
